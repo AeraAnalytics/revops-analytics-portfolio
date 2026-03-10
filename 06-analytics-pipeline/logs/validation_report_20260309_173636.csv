@@ -1,0 +1,13 @@
+file_name,status,row_count,column_count,duplicate_rows,notes
+orders.csv,LOADED,12000,13,0,Loaded successfully
+order_items.csv,LOADED,48042,5,0,Loaded successfully
+payments.csv,LOADED,11142,6,0,Loaded successfully
+returns.csv,LOADED,303,6,0,Loaded successfully
+shipments.csv,LOADED,6879,9,0,Loaded successfully
+customers.csv,LOADED,8000,9,0,Loaded successfully
+products.csv,LOADED,600,9,0,Loaded successfully
+sf_accounts.csv,LOADED,1200,9,0,Loaded successfully
+sf_opportunities.csv,LOADED,2400,9,0,Loaded successfully
+support_cases.csv,LOADED,5999,10,0,Loaded successfully
+dim_dates.csv,LOADED,791,9,0,Loaded successfully
+dim_geo.csv,LOADED,799,6,0,Loaded successfully

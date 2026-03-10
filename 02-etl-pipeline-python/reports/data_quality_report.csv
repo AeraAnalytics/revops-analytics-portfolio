@@ -1,0 +1,8 @@
+check,severity,passed,detail
+orders.order_id unique,CRITICAL,True,dupes=0
+orders.customer_id exists in customers,CRITICAL,True,missing=0
+order_items.order_id exists in orders,CRITICAL,True,missing=0
+order_items.product_id exists in products,CRITICAL,True,missing=0
+orders.order_total non-negative,HIGH,True,negatives=0
+orders.order_date not null,HIGH,True,nulls=0
+shipments.order_id exists in orders,MEDIUM,True,missing=0

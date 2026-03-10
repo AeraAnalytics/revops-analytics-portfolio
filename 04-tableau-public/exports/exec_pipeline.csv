@@ -1,0 +1,7 @@
+stage,opp_count,pipeline_amount,avg_probability
+Discovery,465,117356664.16000001,25.0
+Solutioning,463,115022324.84000011,45.0
+Negotiation,475,114848376.29999991,70.0
+Closed Won,403,108769083.26999995,100.0
+Prospecting,353,84641003.75999996,10.0
+Closed Lost,241,61488784.49,0.0
