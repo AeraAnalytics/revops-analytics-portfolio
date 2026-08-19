@@ -170,9 +170,9 @@ This pipeline architecture could support:
 
 ## Author
 
-Justynn Hammond - OmniEdge Professionals
+Aera Analytics
 
 Data Analytics • Revenue Intelligence • Analytics Engineering
 
 GitHub  
-https://github.com/jhamm2315
+https://github.com/AeraAnalytics
